@@ -14,26 +14,29 @@ Includes Employee & Manager roles, dashboards, reports, calendar views, and mode
 ## ** Screenshots**
 
 - Login Page  
-
-
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Login Page.jpg
 
 - Register Page  
-
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Register Page.jpg
 
 - Employee Dashboard  
-
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Emplyee Dashboard.jpg
 
 - Manager Dashboard 
-
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Manager Dashboard.jpg
 
 - Attendance Marking 
-
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Mark Attendance.jpg
 
 - History Calendar View 
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Attendance Calender.jpg
 
 
-- Reports Page 
+- Reports Page
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Reports.jpg
 
+- Profile
+  C:\Users\sarav\OneDrive\Desktop\Attendance_system_fullstack\screenshots\Profile.jpg
 
 
 ## ** Tech Stack**
